@@ -8,12 +8,12 @@ body{font-size: 62.5%;font-family: "Comic Sans MS";background-color: #eee;}
 .home{
 	background-image: url(img/bg-one.png);
 	text-align: center;
-	padding-bottom: 3em;
+	padding-bottom: 7em;
 }
 .logo-color{
 	position: absolute;
     top: 4em;
-    left: 41em;
+    left: 44em;
     height: 24em;
     width: auto;
 }
